@@ -1,7 +1,7 @@
 {
-    "directory": "C:\\repos\\Python\\GuesTheNumSeq",
+    "directory": "C:\\SomeFolder\\SomeFolder\\SomeFolder",
     "prefix": "",
     "output_file": "output.txt",
     "depth": 2,
-    "exclude": ["__pycache__", "node_modules", ".git", ".gitignore", ".idea", ".venv"]
+    "exclude": ["FolderName", "FolderName", ".git", "FolderName", "FolderName", "FolderName"]
 }
