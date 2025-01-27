@@ -1,0 +1,41 @@
+GuesTheNumSeq
+    ├── .vs
+    ├──     ├── GuesTheNumSeq
+    ├──     ├── ProjectSettings.json
+    ├──     ├── slnx.sqlite
+    ├──     └── VSWorkspaceState.json
+    ├── data
+    ├──     ├── Lotto.csv
+    ├──     ├── LottoTwo.csv
+    ├──     ├── Lotto_features.csv
+    ├──     └── synthetic_sequences.csv
+    ├── main.py
+    ├── models
+    ├──     ├── lstm_model.keras
+    ├──     ├── random_forest_model.joblib
+    ├──     └── scaler.joblib
+    ├── README.md
+    ├── requirements.txt
+    └── scripts
+    └──     ├── check_duplicates.py
+    └──     ├── check_for_gpu.py
+    └──     ├── data_analyzer.py
+    └──     ├── extract_features.py
+    └──     ├── generate_sequences.py
+    └──     ├── hybrid_model.py
+    └──     ├── oneTwo
+    └──     ├──     ├── check_duplicates_123.py
+    └──     ├──     ├── data_analyzer_123.py
+    └──     ├──     ├── extract_features_123.py
+    └──     ├──     ├── generate_sequences_123.py
+    └──     ├──     ├── hybrid_model_123.py
+    └──     ├──     ├── preprocess_123.py
+    └──     ├──     ├── train_123.py
+    └──     ├──     ├── train_lstm_123.py
+    └──     ├──     ├── train_random_forest_123.py
+    └──     ├──     └── utils_123.py
+    └──     ├── preprocess.py
+    └──     ├── train.py
+    └──     ├── train_lstm.py
+    └──     ├── train_random_forest.py
+    └──     ├── utils.py
